@@ -1,0 +1,9 @@
+
+
+.cart-item-flex-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: space-around;
+    height: 350px;
+}
